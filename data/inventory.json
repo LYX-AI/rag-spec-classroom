@@ -1,0 +1,14 @@
+{
+  "BD850": {
+    "qty": 3,
+    "note": "bulldozer"
+  },
+  "MC750": {
+    "qty": 0,
+    "note": "mobile crane, listed but out of stock"
+  },
+  "EX200": {
+    "qty": 5,
+    "note": "excavator"
+  }
+}

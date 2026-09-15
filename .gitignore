@@ -1,0 +1,19 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.streamlit/
+.DS_Store
+Thumbs.db
+
+# Built vector index (run python ingest.py locally)
+data/index/*.json
+data/index/*.npy
+
+# Course drafts, n8n sandbox, probes — not part of the runnable demo
+courseware/
+ops/
+tools/
+video-assets/
+招生物料-Blue/
